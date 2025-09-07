@@ -4,5 +4,10 @@ class test
     {
 
     }
+    public void serviceTest()
+    {
+
+    }
 
 }
+
