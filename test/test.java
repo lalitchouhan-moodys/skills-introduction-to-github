@@ -6,7 +6,7 @@ class test
     }
     public void serviceTest()
     {
-
+            System.out.println("serviceTest");
     }
 
     public void serviceTest2()
