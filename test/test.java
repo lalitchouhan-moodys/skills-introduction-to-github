@@ -9,5 +9,10 @@ class test
 
     }
 
+    public void serviceTest2()
+    {
+
+    }
+
 }
 
