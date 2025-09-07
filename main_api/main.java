@@ -1,4 +1,9 @@
-public static void main()
+
+public class main
 {
-    System.out.println("Hello, World!");
+
+    public static void main()
+    {
+        System.out.println("Hello, World!");
+    }
 }

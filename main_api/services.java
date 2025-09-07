@@ -1,6 +1,6 @@
 public class services
 {
-    public void serviesone()
+    public void serviceone()
     {
         System.out.println("services one");
     }
